@@ -1,0 +1,17 @@
+{
+  "name": "gplayp",
+  "version": "0.0.1",
+  "description": "Google Play Music plugin for Volumio2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "playmusic": ">=1"
+  },
+  "author": "",
+  "license": "ISC",
+  "volumio_info": {
+    "plugin_type": "music_service"
+  }
+}
